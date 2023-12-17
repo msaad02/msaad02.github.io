@@ -107,13 +107,13 @@ analytics:
 author:
   name             : 
   avatar           : "/assets/images/May2023.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Math/CS Student at SUNY Brockport"
+  bio              :
   location         : 
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:msaad02@outlook.com"
+      url: "/email/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/matthewsaad_"
