@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "default", "aqua", "air", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -105,9 +105,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matthew Saad"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a Math/CS Student at SUNY Brockport"
+  name             : 
+  avatar           : "/assets/images/May2023.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Math/CS Student at SUNY Brockport"
   location         : 
   email            : 
   links:
