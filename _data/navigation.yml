@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "About Me"
+  - title: "About"
     url: "/about/"
   - title: "Projects"
     url: "/projects/"
+  - title: "Learning"
+    url: "/learning/"
   - title: "Contact"
     url: "/contact/"
   - title: "CV"

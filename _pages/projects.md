@@ -5,4 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-# BrockportGPT
+**Brockport GPT** *Honors Thesis Project*
+
+---
+I'm currently working on making a Chatbot for SUNY Brockport
