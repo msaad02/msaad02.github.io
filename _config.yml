@@ -105,10 +105,10 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Matthew Saad"
   avatar           : "/assets/images/May2023.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              :
-  location         : 
+  bio              : Math/CS student at [SUNY Brockport](https://www2.brockport.edu/)
+  location         : "Rochester, NY"
   email            : 
   links:
     - label: "Email"
@@ -285,3 +285,24 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+# ---------------------------------
+# Non default additions on 12/20/23
+#
+# Adding a projects section
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
+      share: true
