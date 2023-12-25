@@ -11,7 +11,7 @@ header:
   - label: "GitHub"
     url: "https://github.com/msaad02/honors-thesis"
   - label: "HuggingFace"
-    url: "https://huggingface.co/collections/msaad02/brockportgpt-658383bbd6cc28d6bd66152b"
+    url: "https://huggingface.co/collections/msaad02/brockportgpt-v2-658774ca085a5bce611900f2"
 sidebar:
   - title: "SUNY Brockport Chatbot"
     image: "assets/images/BrockportGPT Logo.png"
