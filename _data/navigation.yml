@@ -6,7 +6,5 @@ main:
     url: "/projects/"
   - title: "Learning"
     url: "/learning/"
-  - title: "Contact"
-    url: "/contact/"
   - title: "CV"
-    url: "/assets/files/Resume 12-17.pdf"
+    url: "/assets/files/Resume 1-25-24.pdf"

@@ -111,9 +111,9 @@ author:
   location         : "Rochester, NY"
   email            : 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "/contact/"
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "/contact/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/matthewsaad_"
