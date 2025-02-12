@@ -25,7 +25,4 @@ Currently, I work as a **Business Intelligence Administrator at Excellus BCBS**,
 [Read More](https://doi.org/10.1109/ICECCME62383.2024.10796881)
 
 ### Let's Connect
-I’m always open to discussing ML, data engineering, and AI-driven solutions. Feel free to reach out!
-
-🔗 [LinkedIn](https://www.linkedin.com/in/mattsaad/)  
-💻 [GitHub](https://github.com/msaad02)
+I’m always open to discussing ML or other cool stuff. Feel free to reach out!
