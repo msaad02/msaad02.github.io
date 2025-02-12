@@ -21,8 +21,7 @@ Currently, I work as a **Business Intelligence Administrator at Excellus BCBS**,
 - **[Car Price Prediction](https://github.com/msaad02/final-project-data-sci)** – Machine learning project focused on predictive modeling.
 
 ### Publications
-📄 *Closed Domain Question-Answering Techniques in an Institutional Chatbot* (IEEE 2024)  
-[Read More](https://doi.org/10.1109/ICECCME62383.2024.10796881)
+ *Closed Domain Question-Answering Techniques in an Institutional Chatbot* (IEEE 2024) [Read More](https://doi.org/10.1109/ICECCME62383.2024.10796881)
 
 ### Let's Connect
 I’m always open to discussing ML or other cool stuff. Feel free to reach out!
