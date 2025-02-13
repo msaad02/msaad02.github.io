@@ -13,11 +13,11 @@ Currently, I work as a **Business Intelligence Administrator at Excellus BCBS**,
 
 ### What I Do
 - **Databricks & Spark** – Architecting data pipelines and optimizing big data workflows.
-- **Machine Learning** – From classical models to deep learning, with experience in NLP and recommendation systems.
+- **Machine Learning** – From classical models to deep learning, with experience in NLP and Generative AI.
 - **Software & AI Development** – Writing clean, efficient code that turns ideas into functional, scalable solutions.
 
 ### Featured Work
-- **[BrockportGPT](https://github.com/msaad02/BrockportGPT)** – My **senior thesis**, an institutional chatbot leveraging Retrieval-Augmented Generation (RAG) techniques.
+- **[BrockportGPT](/projects/brockportgpt)** – An institutional chatbot leveraging many Gen AI techniques (RAG, Finetuning, ...).
 - **[Chess AI](https://github.com/msaad02/final-project-ai-ml)** – A deep learning-based chess engine implementing minimax and alpha-beta pruning.
 - **[Car Price Prediction](https://github.com/msaad02/final-project-data-sci)** – Classical machine learning project focused on predictive modeling.
 
