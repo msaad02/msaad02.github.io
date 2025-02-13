@@ -9,7 +9,7 @@ header:
   overlay_color: "#00533E"
   actions:
   - label: "Paper"
-    url: "
+    url: "/assets/files/senior-honors-thesis.pdf"
   - label: "GitHub"
     url: "https://github.com/msaad02/honors-thesis"
   - label: "HuggingFace"
