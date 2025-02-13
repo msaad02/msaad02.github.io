@@ -18,7 +18,7 @@ Currently, I work as a **Business Intelligence Administrator at Excellus BCBS**,
 ### Featured Work
 - **[BrockportGPT](https://github.com/msaad02/BrockportGPT)** – My **senior thesis**, an institutional chatbot leveraging Retrieval-Augmented Generation (RAG) techniques.
 - **[Chess AI](https://github.com/msaad02/final-project-ai-ml)** – A deep learning-based chess engine implementing minimax and alpha-beta pruning.
-- **[Car Price Prediction](https://github.com/msaad02/final-project-data-sci)** – Machine learning project focused on predictive modeling.
+- **[Car Price Prediction](https://github.com/msaad02/final-project-data-sci)** – Classical machine learning project focused on predictive modeling.
 
 ### Publications
  *Closed Domain Question-Answering Techniques in an Institutional Chatbot* (IEEE 2024) [Read More](https://doi.org/10.1109/ICECCME62383.2024.10796881)

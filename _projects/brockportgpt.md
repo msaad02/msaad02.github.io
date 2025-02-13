@@ -8,6 +8,8 @@ date: 2023-12-20
 header:
   overlay_color: "#00533E"
   actions:
+  - label: "Paper"
+    url: "
   - label: "GitHub"
     url: "https://github.com/msaad02/honors-thesis"
   - label: "HuggingFace"
