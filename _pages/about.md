@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 author_profile: true
+classes: wide
 ---
 
 ## Machine Learning & Data Engineering Enthusiast
